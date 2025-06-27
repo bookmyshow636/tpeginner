@@ -1,0 +1,91 @@
+.call-to-action {
+  padding: 24px 0 42px;
+  position: relative;
+  background: #ffffff;
+}
+.l-constrained {
+  margin: 0 auto;
+  position: relative;
+  width: 1088px;
+}
+.wrapper-3 {
+  float: left;
+  height: 83px;
+  margin: 20px 0 0;
+  position: relative;
+  width: 123px;
+}
+.email {
+  left: 50%;
+  position: absolute;
+  top: 0;
+  margin-left: -22.5px;
+}
+.pngtree-man-and-laptop_19386362 {
+  left: 50%;
+  position: absolute;
+  top: 15px;
+  margin-left: -61.5px;
+}
+.col {
+  float: left;
+  margin: 31px 0 0 21px;
+  position: relative;
+  width: 363px;
+}
+.text {
+  color: #88888a;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.text-2 {
+  margin: 16px 0 0;
+  font-size: 1.4375rem; /* 23px / 16px = 1.4375rem */
+  font-weight: bold;
+  letter-spacing: 0;
+}
+.wrapper-4 {
+  float: right;
+  height: 86px;
+  margin: 19px 2px 0 0;
+  position: relative;
+  width: 127px;
+}
+.call {
+  left: 50%;
+  position: absolute;
+  top: 0;
+  margin-left: -63.5px;
+}
+.pngtree-customer-care-asistance-png-image_10208996 {
+  left: 50%;
+  position: absolute;
+  top: 16px;
+  margin-left: 7.5px;
+}
+.col-2 {
+  float: right;
+  margin: 0 8px 0 0;
+  position: relative;
+  width: 290px;
+}
+.text-3 {
+  margin: 0 0 0 111px;
+  color: #88888a;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.text-4 {
+  margin: 16px 0 0;
+  font-size: 2.014911rem; /* 32.24px / 16px = 2.015rem */
+  font-weight: bold;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+.text-5 {
+  margin: 2px 0 0;
+  font-size: 2.014911rem; /* 32.24px / 16px = 2.015rem */
+  font-weight: bold;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
